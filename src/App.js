@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import { Category } from './models/Category';
+
+console.log(Category);
 
 function App() {
   return (
